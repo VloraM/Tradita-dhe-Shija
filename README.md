@@ -22,5 +22,6 @@
 This is a **fictional restaurant website**, created purely for learning and portfolio purposes.
 
 ---
+📱 Built entirely from a phone using CodePen and GitHub — without a laptop or PC.
 
-👩🏻‍💻 Created with love by **Vlora** 💻❤️
+👩🏻‍💻 Created with love by **Vlora** ❤️
